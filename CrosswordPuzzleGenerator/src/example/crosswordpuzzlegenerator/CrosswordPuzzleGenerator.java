@@ -20,6 +20,7 @@ public class CrosswordPuzzleGenerator
 
     private void createCrosswordPuzzle()
     {
+        System.out.println("TEST");
         System.out.println( "Generating crossword puzzle..." );
         System.out.println();
         System.out.println("PROGRESS");
