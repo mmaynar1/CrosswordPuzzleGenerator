@@ -22,6 +22,8 @@ public class CrosswordPuzzleGenerator
     {
         System.out.println( "Generating crossword puzzle..." );
         System.out.println();
+
+        //Progress Bar
         System.out.println("PROGRESS");
         System.out.println("########");
         int counter = 0;
