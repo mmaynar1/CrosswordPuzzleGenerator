@@ -10,7 +10,7 @@ public class CrosswordPuzzleGenerator
     private List<CrosswordGrid> generatedGrids = new ArrayList<CrosswordGrid>();
     private Dictionary words = new Dictionary();
     final private static int ATTEMPTS_TO_FIT_WORDS = 5000;
-    final private static int GRIDS_TO_MAKE = 80;
+    final private static int GRIDS_TO_MAKE = 70;
 
     public static void main( String[] args )
     {
