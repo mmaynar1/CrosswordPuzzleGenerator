@@ -25,7 +25,7 @@ public class CrosswordPuzzleGenerator
 
         //Progress Bar
         System.out.println("PROGRESS");
-        System.out.println("########");
+        System.out.println("#######");
         int counter = 0;
 
         for (int gridsMade = 0; gridsMade < GRIDS_TO_MAKE; ++gridsMade)
